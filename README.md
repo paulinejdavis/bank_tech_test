@@ -38,7 +38,12 @@ I would like new  deposit
 ### Diagrams
 
 ```
-<img src="images/diagram.png">
+![diagram](file:///var/folders/tz/3dl1vssn6q31fwpkb99tvk7m0000gq/T/com.apple.Safari/WebKitDropDestination-XnRxFY6z/Screenshot%202022-11-14%20at%2015.45.48.png
+
+
+
+
+)
 
 
 

@@ -38,7 +38,8 @@ I would like new  deposit
 ### Diagrams
 
 ```
-![diagram](/Users/paulinejdavis/Documents/bank_tech_test/images/diagram.png)
+<img width="681" alt="diagram" src="https://user-images.githubusercontent.com/111147520/201767591-9c7c9d63-6846-41f9-9f8c-eb6ff12f20d8.png">
+
 
 ```
 ## Self-assessment

@@ -38,7 +38,7 @@ I would like new  deposit
 ### Diagrams
 
 ```
-[image](https://user-images.githubusercontent.com/111147520/201703955-529208da-326c-45de-b2da-79fa96d084b0.png)
+![image](https://user-images.githubusercontent.com/111147520/201703955-529208da-326c-45de-b2da-79fa96d084b0.png)
 
 
 

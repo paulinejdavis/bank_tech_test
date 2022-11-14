@@ -37,11 +37,10 @@ I would like new  deposit
 
 ### Diagrams
 
-```
+
 <img width="681" alt="diagram" src="https://user-images.githubusercontent.com/111147520/201767591-9c7c9d63-6846-41f9-9f8c-eb6ff12f20d8.png">
 
 
-```
 ## Self-assessment
 
 Once you have completed the challenge and feel happy with your solution, here's a form to help you reflect on the quality of your code: https://docs.google.com/forms/d/1Q-NnqVObbGLDHxlvbUfeAC7yBCf3eCjTmz6GOqC9Aeo/edit

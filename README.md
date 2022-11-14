@@ -30,16 +30,82 @@ date       || credit  || debit   || balance
 ### User Stories
 
 ```
-As a account user
+As a bank account user
 Up to date balance that updates in an instance
 I would like new  deposit
 ```
 
+```
+As a bank account user
+I can access my monies and have financial freedom
+I would like to withdraw available funds from my account
+```
+
+```
+As a bank account user
+I would like to be up to speed on the activity of my account
+I would like a full statement of my banking activities from credits, debits, withdrawals and balances
+```
+```
+As a bank account user
+I would like to have access to my account
+I would like a full statement of my banking activities from credits, debits, withdrawals and balances
+```
+
+```
+As a bank account user
+I would like notification so I don't use my overdraft
+I would like a prompt if I am close to exceeding funds in my account
+```
+
+
+
 ### Diagrams
+
+This diagram shows the main class of yourBankAccount
 
 
 <img width="681" alt="diagram" src="https://user-images.githubusercontent.com/111147520/201767591-9c7c9d63-6846-41f9-9f8c-eb6ff12f20d8.png">
 
+## Tech Stack
+
+This command line app uses:
+
+* Node (v?)
+* Jest (v?)
+* NPM (v?)
+
+## How to run
+
+Clone this repo
+
+```
+github.com/paulinejdavis/Bank-tech-test
+```
+
+To run this command line application, install packages:
+
+install npm
+```
+$ npm install
+```
+initalize this project
+
+```
+$ npm init -y
+```
+Add jest to this project
+```
+$ npm add jest
+```
+Also install jest globally
+```
+$ npm install -g jest
+```
+To run tests
+```
+$ jest
+```
 
 ## Self-assessment
 

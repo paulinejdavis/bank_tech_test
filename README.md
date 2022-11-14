@@ -38,7 +38,7 @@ I would like new  deposit
 ### Diagrams
 
 ```
-![](diagram.png)
+![](images/diagram.png)
 
 
 

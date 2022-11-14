@@ -40,17 +40,6 @@ I would like new  deposit
 ```
 ![diagram](/Users/paulinejdavis/Documents/bank_tech_test/images/diagram.png)
 
-
-
-
-
-
-)
-
-
-
-
-
 ```
 ## Self-assessment
 

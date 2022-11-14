@@ -60,7 +60,7 @@ I would like a prompt if I am close to exceeding funds in my account
 
 
 
-### Diagrams
+### Diagram
 
 This diagram shows the main class of yourBankAccount
 
@@ -77,7 +77,7 @@ This command line app uses:
 
 ## How to run
 
-Clone this repo
+Clone this repo:
 
 ```
 github.com/paulinejdavis/Bank-tech-test
@@ -85,11 +85,11 @@ github.com/paulinejdavis/Bank-tech-test
 
 To run this command line application, install packages:
 
-install npm
+Install npm
 ```
 $ npm install
 ```
-initalize this project
+Initalize this project
 
 ```
 $ npm init -y
@@ -98,7 +98,7 @@ Add jest to this project
 ```
 $ npm add jest
 ```
-Also install jest globally
+Install jest globally
 ```
 $ npm install -g jest
 ```

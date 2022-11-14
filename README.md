@@ -1,6 +1,6 @@
 # Your Bank Account
 
-This command line app allows users to view their banking statement. Their statment includes all the vitals like their credit, debit, balance and dates of all these transactions.
+This command line app allows users to view their banking statement. Their statement includes all the vitals like their credit, debit, balance and dates of all these transactions.
 
 ## Specification
 

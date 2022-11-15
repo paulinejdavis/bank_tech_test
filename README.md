@@ -64,7 +64,8 @@ I would like a prompt if I am close to exceeding funds in my account
 
 This diagram shows the main class of yourBankAccount
 
-![](Screenshot 2022-11-15 at 21.30.46.png)
+<img width="862" alt="Screenshot 2022-11-15 at 21 30 46" src="https://user-images.githubusercontent.com/111147520/202030700-94d9c0d0-0ba6-45c9-bffb-89e636d74091.png">
+
 
 
 

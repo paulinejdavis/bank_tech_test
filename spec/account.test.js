@@ -1,8 +1,9 @@
-const Account = require('./account.js')
+const Account = require('../lib/account')
 
-describe('account', () => {
-    it ('returns all transactions including debits,credits and date info', () => {
-        // Account.addItem(transaction);
-        expect(account.getAllTransactions()).toEqual();
-    })
-})
+describe('Account', () => {
+    it ('returns the balance of the account', () => {
+        const account = new Account;
+        expect(account.getBalance()).toBe(0);
+    });
+});
+

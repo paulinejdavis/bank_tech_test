@@ -64,8 +64,9 @@ I would like a prompt if I am close to exceeding funds in my account
 
 This diagram shows the main class of yourBankAccount
 
+Screenshot 2022-11-15 at 21.30.46.png
 
-<img width="681" alt="diagram" src="https://user-images.githubusercontent.com/111147520/201767591-9c7c9d63-6846-41f9-9f8c-eb6ff12f20d8.png">
+
 
 ## Tech Stack
 

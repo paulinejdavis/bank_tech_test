@@ -32,7 +32,7 @@ date       || credit  || debit   || balance
 ```
 As a bank account user
 Up to date balance that updates in an instance
-I would like new  deposit
+I would like to deposit and withdraw funds from my account
 ```
 
 ```
@@ -54,8 +54,8 @@ I would like a full statement of my banking activities from credits, debits, wit
 
 ```
 As a bank account user
-I would like notification so I don't use my overdraft
-I would like a prompt if I am close to exceeding funds in my account
+I would like a prompt if I'm close to overdraft
+I would like to know if I'm exceeding funds in my account
 ```
 
 
@@ -109,9 +109,6 @@ To run tests
 $ jest
 ```
 
-## Self-assessment
-
-Once you have completed the challenge and feel happy with your solution, here's a form to help you reflect on the quality of your code: https://docs.google.com/forms/d/1Q-NnqVObbGLDHxlvbUfeAC7yBCf3eCjTmz6GOqC9Aeo/edit
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

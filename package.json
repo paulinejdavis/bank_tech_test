@@ -1,0 +1,23 @@
+{
+  "name": "bank_tech_test",
+  "version": "1.0.0",
+  "description": "This command line app allows users to view their banking statement. Their statement includes all the vitals like their credit, debit, balance and dates of all these transactions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulinejdavis/bank_tech_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulinejdavis/bank_tech_test/issues"
+  },
+  "homepage": "https://github.com/paulinejdavis/bank_tech_test#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}

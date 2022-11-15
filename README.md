@@ -71,9 +71,9 @@ This diagram shows the main class of yourBankAccount
 
 This command line app uses:
 
-* Node (v?)
-* Jest (v?)
-* NPM (v?)
+* Node (v18.12)
+* Jest (v29.3.1)
+* NPM (8.19.2)
 
 ## How to run
 

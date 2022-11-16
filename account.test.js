@@ -1,4 +1,4 @@
-const Account = require('../lib/account')
+const Account = require('./account')
 
 describe('Account', () => {
     it ('returns the balance of the account', () => {

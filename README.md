@@ -77,6 +77,10 @@ This command line app uses:
 * Jest (v29.3.1)
 * NPM (8.19.2)
 
+## An example of how to run this program with JS in the `node` REPL:
+<img width="523" alt="Screenshot 2022-11-16 at 12 07 40" src="https://user-images.githubusercontent.com/111147520/202177502-68d10ba0-341d-4ef0-bd4f-6dcc0db1ba04.png">
+
+
 ## How to run
 
 Clone this repo:
